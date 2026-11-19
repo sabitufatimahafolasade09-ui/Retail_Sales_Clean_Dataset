@@ -1,0 +1,151 @@
+Order_ID,Customer_ID,Customer_Name,Date,Product,Category,Region,Quantity,Unit_Price,Revenue
+O0001,C015,Aisha Nwosu,7/23/2026,Rice,Food,Port Harcourt,7,57017,399119
+O0002,C031,Bola Adeyemi,5/21/2026,Beans,Food,Ibadan,3,34566,103698
+O0003,C007,Bola Abubakar,4/20/2026,Headphones,Electronics,Kano,5,47873,239365
+O0004,C017,Zainab Abubakar,4/22/2026,Cooking Oil,Food,Port Harcourt,7,27089,189623
+O0005,C008,Emeka Bello,4/10/2026,Laptop,Electronics,Abuja,1,653025,653025
+O0006,C023,Kemi Adeleke,5/12/2026,Headphones,Electronics,Port Harcourt,7,48743,341201
+O0007,C029,Zainab Yusuf,5/11/2026,Rice,Food,Kano,3,56321,168963
+O0008,C034,David Okafor,3/28/2026,Laptop,Electronics,Port Harcourt,7,682596,4778172
+O0009,C006,Chika Eze,8/28/2026,Office Chair,Furniture,Port Harcourt,2,85653,171306
+O0010,C032,Emeka James,7/31/2026,Headphones,Electronics,Ibadan,4,48229,192916
+O0011,C019,Bola Yusuf,3/15/2026,Phone,Electronics,Lagos,4,297841,1191364
+O0012,C018,Chika Bello,5/22/2026,Headphones,Electronics,Lagos,5,46095,230475
+O0013,C031,Bola Adeyemi,1/28/2026,Phone,Electronics,Ibadan,5,326971,1634855
+O0014,C032,Emeka James,1/10/2026,Cooking Oil,Food,Kano,5,26894,134470
+O0015,C009,Fatima Yusuf,1/11/2026,Cooking Oil,Food,Abuja,3,29369,88107
+O0016,C033,Fatima Adeleke,3/26/2026,Rice,Food,Ibadan,6,50158,300948
+O0017,C027,Aisha Abubakar,10/26/2026,Beans,Food,Port Harcourt,4,40753,163012
+O0018,C017,Zainab Abubakar,9/2/2026,Laptop,Electronics,Abuja,3,608877,1826631
+O0019,C001,Hassan Adeyemi,7/29/2026,Rice,Food,Ibadan,1,55063,55063
+O0020,C029,Zainab Yusuf,5/31/2026,Beans,Food,Ibadan,7,35473,248311
+O0021,C028,Tunde Bello,3/13/2026,Laptop,Electronics,Abuja,4,639486,2557944
+O0022,C028,Tunde Bello,4/19/2026,Headphones,Electronics,Abuja,5,41367,206835
+O0023,C005,Zainab Nwosu,5/29/2026,Cooking Oil,Food,Port Harcourt,7,29696,207872
+O0024,C019,Bola Yusuf,10/18/2026,Cooking Oil,Food,Abuja,6,28925,173550
+O0025,C029,Zainab Yusuf,1/24/2026,Office Chair,Furniture,Lagos,4,91189,364756
+O0026,C018,Chika Bello,5/17/2026,Desk,Furniture,Port Harcourt,1,136955,136955
+O0027,C013,Hassan Adeleke,5/19/2026,Office Chair,Furniture,Kano,5,89194,445970
+O0028,C001,Hassan Adeyemi,8/4/2026,Office Chair,Furniture,Abuja,4,94530,378120
+O0029,C026,Musa Eze,7/8/2026,Beans,Food,Lagos,5,39632,198160
+O0030,C031,Bola Adeyemi,1/13/2026,Laptop,Electronics,Lagos,6,655640,3933840
+O0031,C014,Musa Okafor,2/22/2026,Headphones,Electronics,Ibadan,2,41523,83046
+O0032,C032,Emeka James,10/5/2026,Beans,Food,Ibadan,3,39057,117171
+O0033,C014,Musa Okafor,2/15/2026,Phone,Electronics,Kano,5,289605,1448025
+O0034,C017,Zainab Abubakar,8/23/2026,Laptop,Electronics,Abuja,4,596830,2387320
+O0035,C020,Emeka Oladeji,2/18/2026,Headphones,Electronics,Ibadan,4,49784,199136
+O0036,C022,David James,3/22/2026,Laptop,Electronics,Ibadan,6,632414,3794484
+O0037,C021,Fatima Adeyemi,4/20/2026,Office Chair,Furniture,Kano,4,85951,343804
+O0038,C001,Hassan Adeyemi,2/12/2026,Desk,Furniture,Abuja,4,148173,592692
+O0039,C005,Zainab Nwosu,3/15/2026,Headphones,Electronics,Port Harcourt,5,43284,216420
+O0040,C030,Chika Oladeji,8/19/2026,Headphones,Electronics,Port Harcourt,7,41566,290962
+O0041,C037,Hassan Abubakar,2/12/2026,Desk,Furniture,Ibadan,2,131693,263386
+O0042,C022,David James,9/6/2026,Cooking Oil,Food,Kano,3,29101,87303
+O0043,C013,Hassan Adeleke,7/6/2026,Beans,Food,Ibadan,7,36632,256424
+O0044,C037,Hassan Abubakar,10/8/2026,Cooking Oil,Food,Ibadan,7,25277,176939
+O0045,C002,Musa James,2/15/2026,Cooking Oil,Food,Kano,4,30194,120776
+O0046,C004,Tunde Okafor,9/25/2026,Headphones,Electronics,Lagos,6,49345,296070
+O0047,C021,Fatima Adeyemi,4/11/2026,Laptop,Electronics,Port Harcourt,3,695397,2086191
+O0048,C017,Zainab Abubakar,1/29/2026,Cooking Oil,Food,Abuja,7,28735,201145
+O0049,C011,Kemi Adeyemi,1/10/2026,Rice,Food,Lagos,7,49556,346892
+O0050,C003,Aisha Adeleke,2/15/2026,Office Chair,Furniture,Abuja,7,89246,624722
+O0051,C024,Ibrahim Okafor,3/26/2026,Headphones,Electronics,Abuja,7,42444,297108
+O0052,C040,Tunde Oladeji,10/19/2026,Office Chair,Furniture,Ibadan,3,95965,287895
+O0053,C006,Chika Eze,3/25/2026,Desk,Furniture,Lagos,1,137826,137826
+O0054,C001,Hassan Adeyemi,2/6/2026,Headphones,Electronics,Kano,7,45512,318584
+O0055,C028,Tunde Bello,9/17/2026,Office Chair,Furniture,Kano,5,89675,448375
+O0056,C002,Musa James,8/10/2026,Headphones,Electronics,Ibadan,1,41797,41797
+O0057,C005,Zainab Nwosu,10/19/2026,Phone,Electronics,Abuja,7,315989,2211923
+O0058,C006,Chika Eze,7/18/2026,Laptop,Electronics,Ibadan,4,721654,2886616
+O0059,C012,Ibrahim James,6/29/2026,Desk,Furniture,Ibadan,7,131293,919051
+O0060,C006,Chika Eze,2/1/2026,Headphones,Electronics,Port Harcourt,6,41889,251334
+O0061,C017,Zainab Abubakar,2/24/2026,Rice,Food,Kano,7,53618,375326
+O0062,C030,Chika Oladeji,5/21/2026,Office Chair,Furniture,Kano,4,101901,407604
+O0063,C001,Hassan Adeyemi,3/17/2026,Headphones,Electronics,Port Harcourt,1,48711,48711
+O0064,C019,Bola Yusuf,6/9/2026,Beans,Food,Kano,3,39266,117798
+O0065,C035,Kemi Nwosu,2/5/2026,Office Chair,Furniture,Abuja,5,94122,470610
+O0066,C038,Musa Bello,7/15/2026,Laptop,Electronics,Abuja,1,709051,709051
+O0067,C019,Bola Yusuf,10/26/2026,Phone,Electronics,Port Harcourt,2,304661,609322
+O0068,C034,David Okafor,2/1/2026,Office Chair,Furniture,Ibadan,7,86891,608237
+O0069,C024,Ibrahim Okafor,4/6/2026,Cooking Oil,Food,Abuja,2,29198,58396
+O0070,C037,Hassan Abubakar,10/4/2026,Beans,Food,Lagos,7,35583,249081
+O0071,C012,Ibrahim James,6/12/2026,Phone,Electronics,Lagos,2,296130,592260
+O0072,C029,Zainab Yusuf,2/22/2026,Rice,Food,Ibadan,2,47410,94820
+O0073,C024,Ibrahim Okafor,9/6/2026,Phone,Electronics,Abuja,5,315711,1578555
+O0074,C040,Tunde Oladeji,9/20/2026,Phone,Electronics,Ibadan,6,347919,2087514
+O0075,C002,Musa James,3/10/2026,Laptop,Electronics,Abuja,2,618854,1237708
+O0076,C026,Musa Eze,5/5/2026,Phone,Electronics,Lagos,7,291467,2040269
+O0077,C015,Aisha Nwosu,1/28/2026,Desk,Furniture,Kano,4,133743,534972
+O0078,C005,Zainab Nwosu,10/5/2026,Rice,Food,Kano,3,47933,143799
+O0079,C034,David Okafor,4/7/2026,Office Chair,Furniture,Kano,7,105973,741811
+O0080,C024,Ibrahim Okafor,7/12/2026,Office Chair,Furniture,Port Harcourt,5,101781,508905
+O0081,C006,Chika Eze,10/18/2026,Office Chair,Furniture,Kano,4,96247,384988
+O0082,C034,David Okafor,4/26/2026,Laptop,Electronics,Abuja,6,676457,4058742
+O0083,C011,Kemi Adeyemi,2/19/2026,Rice,Food,Ibadan,1,52266,52266
+O0084,C025,Hassan Nwosu,4/21/2026,Beans,Food,Port Harcourt,3,37263,111789
+O0085,C014,Musa Okafor,3/12/2026,Laptop,Electronics,Abuja,3,683061,2049183
+O0086,C032,Emeka James,10/2/2026,Desk,Furniture,Port Harcourt,5,145841,729205
+O0087,C014,Musa Okafor,5/27/2026,Laptop,Electronics,Port Harcourt,4,706344,2825376
+O0088,C009,Fatima Yusuf,6/9/2026,Office Chair,Furniture,Lagos,4,98727,394908
+O0089,C012,Ibrahim James,6/29/2026,Beans,Food,Port Harcourt,6,35892,215352
+O0090,C021,Fatima Adeyemi,2/9/2026,Office Chair,Furniture,Port Harcourt,7,98340,688380
+O0091,C004,Tunde Okafor,6/6/2026,Phone,Electronics,Kano,6,293948,1763688
+O0092,C029,Zainab Yusuf,10/15/2026,Beans,Food,Ibadan,7,40895,286265
+O0093,C024,Ibrahim Okafor,10/7/2026,Laptop,Electronics,Kano,6,698701,4192206
+O0094,C004,Tunde Okafor,6/27/2026,Cooking Oil,Food,Ibadan,6,24864,149184
+O0095,C025,Hassan Nwosu,1/3/2026,Beans,Food,Ibadan,2,38922,77844
+O0096,C020,Emeka Oladeji,6/6/2026,Laptop,Electronics,Kano,5,694241,3471205
+O0097,C032,Emeka James,2/11/2026,Phone,Electronics,Kano,4,330211,1320844
+O0098,C034,David Okafor,2/5/2026,Rice,Food,Ibadan,6,47803,286818
+O0099,C027,Aisha Abubakar,3/4/2026,Headphones,Electronics,Port Harcourt,3,48165,144495
+O0100,C030,Chika Oladeji,9/27/2026,Cooking Oil,Food,Port Harcourt,6,28829,172974
+O0101,C011,Kemi Adeyemi,4/4/2026,Office Chair,Furniture,Lagos,3,92071,276213
+O0102,C039,Aisha Yusuf,10/8/2026,Beans,Food,Port Harcourt,1,37860,37860
+O0103,C016,Tunde Eze,10/12/2026,Beans,Food,Kano,6,38823,232938
+O0104,C015,Aisha Nwosu,5/24/2026,Office Chair,Furniture,Port Harcourt,5,93365,466825
+O0105,C040,Tunde Oladeji,5/8/2026,Rice,Food,Lagos,6,57681,346086
+O0106,C011,Kemi Adeyemi,7/11/2026,Office Chair,Furniture,Ibadan,7,88048,616336
+O0107,C024,Ibrahim Okafor,1/29/2026,Rice,Food,Ibadan,5,46940,234700
+O0108,C029,Zainab Yusuf,3/30/2026,Office Chair,Furniture,Abuja,4,95083,380332
+O0109,C018,Chika Bello,8/10/2026,Rice,Food,Port Harcourt,3,57306,171918
+O0110,C022,David James,10/27/2026,Rice,Food,Port Harcourt,3,56858,170574
+O0111,C012,Ibrahim James,7/19/2026,Office Chair,Furniture,Kano,6,87724,526344
+O0112,C001,Hassan Adeyemi,7/15/2026,Headphones,Electronics,Port Harcourt,1,41395,41395
+O0113,C036,Ibrahim Eze,5/16/2026,Office Chair,Furniture,Lagos,1,90533,90533
+O0114,C035,Kemi Nwosu,3/1/2026,Office Chair,Furniture,Abuja,6,104532,627192
+O0115,C027,Aisha Abubakar,2/16/2026,Desk,Furniture,Lagos,1,130673,130673
+O0116,C033,Fatima Adeleke,8/29/2026,Phone,Electronics,Abuja,7,304794,2133558
+O0117,C034,David Okafor,10/18/2026,Beans,Food,Kano,1,40896,40896
+O0118,C005,Zainab Nwosu,7/29/2026,Office Chair,Furniture,Ibadan,6,103013,618078
+O0119,C002,Musa James,7/29/2026,Laptop,Electronics,Ibadan,2,602864,1205728
+O0120,C022,David James,7/9/2026,Headphones,Electronics,Ibadan,4,48926,195704
+O0121,C007,Bola Abubakar,1/5/2026,Office Chair,Furniture,Abuja,6,89534,537204
+O0122,C004,Tunde Okafor,10/22/2026,Headphones,Electronics,Ibadan,4,46554,186216
+O0123,C003,Aisha Adeleke,3/7/2026,Rice,Food,Kano,5,47284,236420
+O0124,C019,Bola Yusuf,2/21/2026,Headphones,Electronics,Port Harcourt,3,41408,124224
+O0125,C008,Emeka Bello,6/12/2026,Laptop,Electronics,Port Harcourt,7,650574,4554018
+O0126,C011,Kemi Adeyemi,6/21/2026,Headphones,Electronics,Abuja,7,41936,293552
+O0127,C038,Musa Bello,6/11/2026,Phone,Electronics,Port Harcourt,3,328692,986076
+O0128,C011,Kemi Adeyemi,10/10/2026,Headphones,Electronics,Ibadan,4,41969,167876
+O0129,C021,Fatima Adeyemi,2/8/2026,Headphones,Electronics,Lagos,3,45194,135582
+O0130,C039,Aisha Yusuf,3/25/2026,Beans,Food,Port Harcourt,7,36747,257229
+O0131,C018,Chika Bello,10/19/2026,Office Chair,Furniture,Ibadan,5,98763,493815
+O0132,C007,Bola Abubakar,3/7/2026,Laptop,Electronics,Port Harcourt,6,669127,4014762
+O0133,C013,Hassan Adeleke,5/24/2026,Desk,Furniture,Ibadan,1,143846,143846
+O0134,C006,Chika Eze,6/21/2026,Beans,Food,Ibadan,1,38929,38929
+O0135,C029,Zainab Yusuf,7/4/2026,Phone,Electronics,Abuja,5,333931,1669655
+O0136,C010,David Oladeji,6/14/2026,Office Chair,Furniture,Ibadan,3,94516,283548
+O0137,C026,Musa Eze,8/31/2026,Phone,Electronics,Port Harcourt,3,324096,972288
+O0138,C023,Kemi Adeleke,10/4/2026,Desk,Furniture,Port Harcourt,1,146565,146565
+O0139,C021,Fatima Adeyemi,6/5/2026,Cooking Oil,Food,Kano,6,26167,157002
+O0140,C016,Tunde Eze,2/4/2026,Laptop,Electronics,Kano,1,595304,595304
+O0141,C034,David Okafor,6/19/2026,Office Chair,Furniture,Abuja,1,91364,91364
+O0142,C020,Emeka Oladeji,4/5/2026,Beans,Food,Kano,6,40408,242448
+O0143,C001,Hassan Adeyemi,5/5/2026,Laptop,Electronics,Abuja,6,707486,4244916
+O0144,C029,Zainab Yusuf,6/30/2026,Beans,Food,Ibadan,2,35200,70400
+O0145,C015,Aisha Nwosu,5/15/2026,Phone,Electronics,Port Harcourt,7,358080,2506560
+O0146,C017,Zainab Abubakar,7/26/2026,Cooking Oil,Food,Port Harcourt,6,28490,170940
+O0147,C016,Tunde Eze,7/22/2026,Desk,Furniture,Abuja,5,130842,654210
+O0148,C031,Bola Adeyemi,2/19/2026,Phone,Electronics,Ibadan,4,299679,1198716
+O0149,C034,David Okafor,3/2/2026,Desk,Furniture,Kano,7,148235,1037645
+O0150,C033,Fatima Adeleke,2/12/2026,Desk,Furniture,Kano,5,144799,723995
